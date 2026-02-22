@@ -19,6 +19,6 @@ The system takes user input through a set of questions related to skills and int
 - Python
 
 ## How to Run
--Download the file
--Open terminal
+- Download the file
+- Open terminal
 - Run: python main.py
